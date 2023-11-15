@@ -48,5 +48,8 @@
     },
     "importSorter.generalConfiguration.exclude": [
         "imljson-language-features/"
+    ],
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "development"
     ]
 }
